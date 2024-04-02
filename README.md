@@ -1,5 +1,4 @@
-### Hello👋,  my name is Aryaman Suri. I am a student at the University of Toronto. I'm a data engineer skilled in data pipelining with a keen interest in data science and AI. 
-
+### Hello👋,  my name is Aryaman Suri. I am a student at the University of Toronto. I'm a data engineer skilled in data pipelining with a keen interest in data science and AI. I'm looking to collaborate on interesting data engineering projects.
 <!--
 **aryamansuri/aryamansuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
