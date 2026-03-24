@@ -1,4 +1,8 @@
-### Hello👋,  my name is Aryaman Suri. I am a student at the University of Toronto. I'm a data engineer skilled in data pipelining with a keen interest in data science and AI. I'm looking to collaborate on interesting data engineering projects.
+Hi 👋, I'm Aryaman Suri. I'm a backend software engineer with experience building fintech systems using Java, Spring Boot, and SQL. I’ve worked on production systems that process and analyze financial transaction data, including APIs and data pipelines used for credit evaluation.
+
+I'm particularly interested in backend systems, scalable APIs, and data-intensive applications. Currently, I’m exploring opportunities to build and work on high-impact engineering problems in fintech and product-based companies.
+
+Open to collaborating on backend and data-driven projects.
 <!--
 **aryamansuri/aryamansuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
